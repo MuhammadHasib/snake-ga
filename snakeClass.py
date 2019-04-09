@@ -8,8 +8,8 @@ import seaborn as sns
 import numpy as np
 
 # Set options to activate or deactivate the game view, and its speed
-display_option = False
-speed = 0
+display_option = True
+speed = 50
 pygame.font.init()
 
 
